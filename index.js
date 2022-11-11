@@ -1,3 +1,3 @@
 setTimeout(function(){
-    window.location.href = 'info.html';
+    window.location.href = 'invite.jpeg';
  }, 2000);
