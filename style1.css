@@ -1,13 +1,6 @@
 
-/* #picture{
-    background-color: aqua;
-    /* background-image: url('picture.jpg'); */
-    /* background-attachment: fixed;
-    background-size: auto 100%;
-    background-position: center;
-    background-repeat: no-repeat; */
-/* }  */
-@media only screen and (max-width: 600px){
+
+@media only screen and (max-width: 800px){
     body{
         background-color: black;
         background-image: url('picture.jpeg');
@@ -17,39 +10,39 @@
         background-repeat: no-repeat;
     }
     .one{
-        position: relative;
+        position: fixed;
         top:18rem;
-        left:8rem;
+        left:9rem;
         font-size: 30px;
         font-style: italic;
         text-align: center;
     }
     .two{
-        position: relative;
+        position: fixed;
         top:23rem;
-        right:2rem;
+        right:7rem;
         font-size: 30px;
         font-style: italic;
         color:darkgoldenrod;
     }
     .three{
-        position: relative;
-        top:27rem;
-        left:6rem;
+        position: fixed;
+        top:28rem;
+        left:7rem;
         font-size: 30px;
         font-style: italic;
     }
     .four{
-        position: relative;
-        top:32rem;
-        right:6rem;
+        position: fixed;
+        top:33rem;
+        right:7rem;
         font-size: 30px;
         font-style: italic;
         color:darkgoldenrod;
     }
     .five{
-        position: relative;
-        top:34rem;
+        position: fixed;
+        top:37rem;
         left:9rem;
         font-size: 30px;
         font-style: italic;

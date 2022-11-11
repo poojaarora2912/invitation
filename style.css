@@ -17,7 +17,7 @@ body{
     background-repeat: no-repeat;
 }
 .one{
-    position: relative;
+    position: fixed;
     top:12rem;
     left:4rem;
     font-size: 20px;
@@ -25,7 +25,7 @@ body{
     text-align: center;
 }
 .two{
-    position: relative;
+    position: fixed;
     top:17rem;
     right:8rem;
     font-size: 40px;
