@@ -18,21 +18,21 @@ body{
 }
 .one{
     position: fixed;
-    top:12rem;
+    top:15rem;
     left:4rem;
     font-size: 20px;
     font-style: italic;
     text-align: center;
 }
-.two{
+/* .two{
     position: fixed;
     top:17rem;
     right:8rem;
     font-size: 40px;
     font-style: italic;
     color:darkgoldenrod;
-}
-.three{
+} */
+/* .three{
     position: relative;
     top:20rem;
     left:5rem;
@@ -53,5 +53,5 @@ body{
     font-size: 40px;
     font-style: italic;
     color:darkgoldenrod;
-}
+} */
 }
