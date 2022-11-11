@@ -1,0 +1,57 @@
+
+/* #picture{
+    background-color: aqua;
+    /* background-image: url('picture.jpg'); */
+    /* background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat; */
+/* }  */
+@media only screen and (max-width: 600px){
+body{
+    background-color: black;
+    background-image: url('picture.jpeg');
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.one{
+    position: relative;
+    top:12rem;
+    left:4rem;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+.two{
+    position: relative;
+    top:17rem;
+    right:8rem;
+    font-size: 40px;
+    font-style: italic;
+    color:darkgoldenrod;
+}
+.three{
+    position: relative;
+    top:20rem;
+    left:5rem;
+    font-size: 20px;
+    font-style: italic;
+}
+.four{
+    position: relative;
+    top:26rem;
+    right:7rem;
+    font-size: 40px;
+    font-style: italic;
+}
+.five{
+    position: relative;
+    top:29rem;
+    left:7rem;
+    font-size: 40px;
+    font-style: italic;
+    color:darkgoldenrod;
+}
+}

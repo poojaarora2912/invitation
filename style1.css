@@ -1,0 +1,60 @@
+
+/* #picture{
+    background-color: aqua;
+    /* background-image: url('picture.jpg'); */
+    /* background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat; */
+/* }  */
+@media only screen and (max-width: 600px){
+    body{
+        background-color: black;
+        background-image: url('picture.jpeg');
+        background-attachment: fixed;
+        background-size: auto 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .one{
+        position: relative;
+        top:18rem;
+        left:8rem;
+        font-size: 30px;
+        font-style: italic;
+        text-align: center;
+    }
+    .two{
+        position: relative;
+        top:23rem;
+        right:2rem;
+        font-size: 30px;
+        font-style: italic;
+        color:darkgoldenrod;
+    }
+    .three{
+        position: relative;
+        top:27rem;
+        left:6rem;
+        font-size: 30px;
+        font-style: italic;
+    }
+    .four{
+        position: relative;
+        top:32rem;
+        right:6rem;
+        font-size: 30px;
+        font-style: italic;
+        color:darkgoldenrod;
+    }
+    .five{
+        position: relative;
+        top:34rem;
+        left:9rem;
+        font-size: 30px;
+        font-style: italic;
+        color:darkgoldenrod;
+        
+    }
+    
+    }
